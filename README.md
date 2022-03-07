@@ -14,5 +14,15 @@ The dataset used for this project is composed of statistics of NBA players and t
 
 This dataset can be found at https://github.com/anthonyychan/cind820/blob/5c2456ca1e4e37eeb9751d5b98392afdd4e17bab/nba.games.stats.xlsx
 
+## Table of contents
+* [Project Abstract]
+* [Project Literature Review]
+* [Initial Results]
+* [dataset]
+     
+
+Tentative Stages of Project:
+
+The first step of this project was to come up with an abstract to outline the project and the questions we will answer throughout this capstone project. This included the problem statement, desired tools to be used, dataset choice, and general ideaology of the project. Then, we had  to conduct a literature review to help get more information regarding this topic and how these can help develop the project. We would get these from research papers and articles on the internet where they have studied multiple datasets and used different machine learning techniques to determine their outputs. Initial results and code were submitted to check validity of code and get a sense of what we will see in our final results and conclusion statements.
 
 
